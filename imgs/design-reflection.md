@@ -1,5 +1,7 @@
 <a href="design-reflection.md">site-map.jpg</a>
 
+![Alt text](/path/to/site-map.jpg)
+
 What are the 6 Phases of Web Design?
 
 Information gathering, planning, design, development, testing and delivery, maitenance
