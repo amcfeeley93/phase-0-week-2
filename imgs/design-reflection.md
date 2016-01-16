@@ -18,7 +18,6 @@ My target audience will be employers and professionals. The site will address th
 
 
 What is the primary "action" the user should take when coming to your site? Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
-
 The primary action for employers coming to my site will be to see my portfolio and contact me.
 
 What are the main things someone should know about design and user experience?
